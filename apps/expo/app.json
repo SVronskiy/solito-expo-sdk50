@@ -13,6 +13,9 @@
     },
     "android": {
       "package": "com.solito.nativewind"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
